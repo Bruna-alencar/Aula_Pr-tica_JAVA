@@ -8,6 +8,12 @@ public class Testa_Cliente {
 		
 		cliente1.visualizar();
 		
+	PessoaFisica fisica1 = new PessoaFisica ("Guilherme Santos","Rua Dom José",4526-9865,23,92836,90);
+	
+	fisica1.visualizar();
+	
 	}
+	
+	
 
 }
